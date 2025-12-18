@@ -1,4 +1,7 @@
 # mysecondproject
 this is my second git repository.
 <br>
-auther-adityasingh
+auther-aditya(ratna)singh
+
+
+
